@@ -18,23 +18,25 @@ Our project unfolds in several crucial phases, each contributing to a comprehens
 
 1. Data Understanding
 In this phase, we meticulously dissect the raw data, aiming to comprehend its intricacies, structures, and potential insights. By gaining a profound understanding of the data, we lay the groundwork for subsequent stages and ensure a robust foundation for our analysis.
+![Uploading image.png…]()
 
-2. Data Cleaning
+
+3. Data Cleaning
 Armed with insights from the data understanding phase, our focus shifts to data cleaning. Rigorous processes are employed to rectify inconsistencies, address missing values, and standardize the dataset. This meticulous approach ensures the integrity and reliability of our data, setting the stage for meaningful analysis.
 
-3. Problem Statement
+4. Problem Statement
 With a refined dataset, we articulate a clear and concise problem statement. This pivotal step establishes the purpose and scope of our project, guiding subsequent efforts towards a well-defined objective.
 
-4. Exploratory Data Analysis (EDA)
+5. Exploratory Data Analysis (EDA)
 Embarking on the EDA phase, we employ statistical and visual techniques to unearth patterns, trends, and anomalies within the data. EDA not only illuminates potential insights but also informs subsequent modeling decisions.
 
-5. Model & Evaluation Metrics
+6. Model & Evaluation Metrics
 Our modeling phase involves the selection, development, and evaluation of predictive models. Metrics are carefully chosen to assess the model's performance, ensuring its effectiveness in addressing the defined problem.
 
-6. Conclusion
+7. Conclusion
 The culmination of our efforts is encapsulated in the conclusion, where we synthesize findings, draw insights, and reflect on the implications of our analysis. This section serves as a comprehensive summary of our journey and its outcomes.
 
-7. Future Development
+8. Future Development
 The project doesn't conclude with conclusions. We outline strategies for future development, suggesting avenues for refinement, expansion, and ongoing improvement. This forward-looking perspective ensures the sustained relevance and impact of our work.
 
 Our journey is marked by a commitment to thoroughness, innovation, and continuous improvement. As we navigate each phase, the narrative of our project unfolds, promising a compelling story of discovery and solution
