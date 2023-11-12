@@ -13,7 +13,7 @@ To understand and leverage characteristics associated with long-term employees, 
 
 Incorporating these initiatives into our HR strategy has the potential to not only address the identified challenges but also contribute to a more engaged, skilled, and enduring workforce. This README serves as a guide for our ongoing efforts to enhance employee retention within the organization.
 
-#Project Overview
+# Project Overview
 Our project unfolds in several crucial phases, each contributing to a comprehensive understanding and resolution of our objectives. Let's delve into the distinctive components that shape the essence of our venture:
 
 1. Data Understanding
