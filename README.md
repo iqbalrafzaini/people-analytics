@@ -18,7 +18,6 @@ Our project unfolds in several crucial phases, each contributing to a comprehens
 
 1. Data Understanding
 In this phase, we meticulously dissect the raw data, aiming to comprehend its intricacies, structures, and potential insights. By gaining a profound understanding of the data, we lay the groundwork for subsequent stages and ensure a robust foundation for our analysis.
-![Uploading image.png…]()
 
 
 3. Data Cleaning
